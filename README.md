@@ -20,7 +20,9 @@ C/C++学习笔记
     - [5.文件读写(五)][15]
     - [6.内存管理(六)][16]
     - [7.预处理器(七)][17]
-- [8.链表(八)][18]
+    
+    - [8.链表(八)][18]
+    
     - [9.编写大型程序(九)][19]
     
 
@@ -29,9 +31,7 @@ C/C++学习笔记
 [1]:  https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/1.C%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B(%E4%B8%80).md       "C语言入门"
 [11]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/2.%E6%8C%87%E9%92%88(%E4%BA%8C).md  "1.C语言简介(一)"
 [12]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/2.%E6%8C%87%E9%92%88(%E4%BA%8C).md " 2.指针(二)"
-
-[13]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/3.%E7%BB%93%E6%9E%84%E4%BD%93(%E4%B8%89).md" 3 .结构体(三)"
-
+[13]:  https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/3.%E7%BB%93%E6%9E%84%E4%BD%93(%E4%B8%89).md  "3 .结构体(三)"
 [14]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/4.%E5%85%B1%E7%94%A8%E4%BD%93(%E5%9B%9B).md  "4.共用体(四)"
 [15]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/5.%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99(%E4%BA%94).md "5.文件读写(五)"
 [16]: https://github.com/CharonChui/CStudyNote/blob/main/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/6.%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86(%E5%85%AD).md "6.内存管理(六)"
